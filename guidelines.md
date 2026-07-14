@@ -71,6 +71,11 @@ Example rationale:
 > ```
 
 ---
-ME Benderyszyn 
-11/2025 bMagicLAB
-bAItherix Research, All Rights Reserved 
+
+## License
+All rights reserved.
+Copyright © 2025-2026 M.E. Benderyszyn / b.AItherix Research (formerly bMagicLAB).
+
+*AI System Architecture • Control Systems • Cyber Security*
+
+
